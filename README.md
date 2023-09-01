@@ -16,7 +16,6 @@ Você pode navegar nas pastas correspondentes a cada desafio para ver o código 
 
 ## Como Executar os Códigos
 
-Dentro de cada pasta de desafio, você encontrará o arquivo Python contendo a resolução. Para executar o código em seu próprio ambiente, siga estas etapas:
 
 1. Clone este repositório em sua máquina ou faça o download do ZIP.
 2. Navegue até a pasta do desafio que deseja executar.
